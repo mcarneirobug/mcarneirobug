@@ -11,5 +11,9 @@
 
 <br/>
 
-- 🔭 I’m currently working at DSuite as a Software Developer Intern;
-- 🌱 I’m currently learning NestJS, Flutter, Mongo;
+<p>
+  - 🔭 I’m currently working at DSuite as a Software Developer Intern;
+</p>
+<p>
+  - 🌱 I’m currently learning NestJS, Flutter, Mongo;
+</p>
