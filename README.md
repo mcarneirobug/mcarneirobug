@@ -22,11 +22,3 @@
   <a href="https://linkedin.com/in/mrscarneiro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mrscarneiro"        height="30" width="30" />
   </a>
 </p>
-
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-</details>
