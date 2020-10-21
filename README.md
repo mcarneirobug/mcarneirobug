@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matheus Santos</h1>
-<h3 align="center">I’m currently working at DSuite as a Software Developer Intern and studying Engenharia de Software at PUC Minas</h3>
+<h3 align="center">I’m currently working at Mundiale as a Software Developer Intern and studying Engenharia de Software at PUC Minas</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mcarneirobug" alt="mcarneirobug" /> </p>
 
