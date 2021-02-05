@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mcarneirobug" alt="mcarneirobug" /> </p>
 
-- 🌱 I’m currently learning **NestJS, React Native, Mongo.**
+- 🌱 I’m currently learning **Spring Boot, Microservices, Mongo.**
 
 - 📫 How to reach me **mccarneiro_@hotmail.com**
 
