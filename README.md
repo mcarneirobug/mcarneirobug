@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Matheus Santos</h1>
-<h3 align="center">I’m currently working at Mundiale as a Backend Software Developer Intern and studying Software Engineer at PUC Minas</h3>
+<h3 align="center">I’m currently working at Inter as a Backend Software Developer and studying Software Engineer at PUC Minas</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mcarneirobug" alt="mcarneirobug" /> </p>
 
-- 🌱 I’m currently learning **Spring Boot, Microservices, Mongo.**
+- 🌱 I’m currently learning **Spring Boot, Microservices, Micronaut, Elasticsearch**
 
 - 📫 How to reach me **mccarneiro_@hotmail.com**
 
