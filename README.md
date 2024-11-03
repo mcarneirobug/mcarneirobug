@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matheus Santos</h1>
-<h3 align="center">I’m currently working at Aubay as a Software Developer and graduated as a software engineer from PUC Minas</h3>
+<h3 align="center">I’m currently working at CEiiA as a Software Developer and graduated as a software engineer from PUC Minas</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mcarneirobug" alt="mcarneirobug" /> </p>
 
